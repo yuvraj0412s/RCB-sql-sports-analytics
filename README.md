@@ -7,8 +7,6 @@
 [![Sports Analytics](https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![IPL Coverpage](assets/coverpage.png)
-
 </div>
 
 ---
