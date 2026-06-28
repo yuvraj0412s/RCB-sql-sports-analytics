@@ -7,7 +7,7 @@
 [![Sports Analytics](https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![IPL Dashboard](assets/dashboard.png)
+![IPL Coverpage](assets/coverpage.png)
 
 </div>
 
@@ -18,6 +18,8 @@
 In franchise cricket, particularly the Indian Premier League (IPL), squad construction and match-day tactics often rely on intuition rather than empirical data. This leads to inefficient auction spending and suboptimal on-field strategies.
 
 **The Objective:**
+![Business Problem](assets/hero-image.png)
+
 This SQL-based sports analytics project was developed to provide the Royal Challengers Bangalore (RCB) franchise with a rigorous, data-driven framework. The goal is to optimize squad composition, maximize auction Return on Investment (ROI), and refine match-day tactics (e.g., toss decisions, venue-specific strategies).
 
 **Expected Outcome:**
@@ -69,9 +71,12 @@ This project showcases complex database querying and performance optimization te
 Analysis revealed that during RCB's initial season, extra runs accounted for 15-20% of their total score. This highlighted a severe lack of bowling discipline and a direct correlation with lost match momentum.
 
 ### Elite Finisher Value (Strike Rate)
+![Strike Rate Analysis](assets/strike-rate-dashboard.png)
 Calculated pure strike rates (filtering out wides/no-balls). The data proved that elite batsmen (e.g., AB de Villiers at 164.27 SR) act as extreme momentum shifters in death overs, commanding premium auction valuation.
 
 ### Venue & Toss Dynamics
+![Venue Analysis](assets/venue-dashboard.png)
+![Venue Heatmap](assets/venue-heatmap.png)
 Cross-referenced toss decisions (bat vs. field) against match winners per venue. Demonstrated that certain stadiums heavily favor chasing teams, necessitating a strict, data-driven approach at the toss rather than relying on captain's intuition.
 
 ---
