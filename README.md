@@ -54,8 +54,6 @@ This project showcases complex database querying and performance optimization te
 
 ## 🔄 Analysis Workflow
 
-![Workflow Overview](assets/workflow.png)
-
 1. **Schema Exploration:** Validated data structures using `INFORMATION_SCHEMA`.
 2. **Data Cleaning:** Handled nulls and standardized team nomenclature.
 3. **Metric Engineering:** Built queries to calculate pure strike rates and isolate scoring leakage (extras).
@@ -71,11 +69,9 @@ This project showcases complex database querying and performance optimization te
 Analysis revealed that during RCB's initial season, extra runs accounted for 15-20% of their total score. This highlighted a severe lack of bowling discipline and a direct correlation with lost match momentum.
 
 ### Elite Finisher Value (Strike Rate)
-![Strike Rate Analysis](assets/strike-rate.png)
 Calculated pure strike rates (filtering out wides/no-balls). The data proved that elite batsmen (e.g., AB de Villiers at 164.27 SR) act as extreme momentum shifters in death overs, commanding premium auction valuation.
 
 ### Venue & Toss Dynamics
-![Venue Analysis](assets/venue-analysis.png)
 Cross-referenced toss decisions (bat vs. field) against match winners per venue. Demonstrated that certain stadiums heavily favor chasing teams, necessitating a strict, data-driven approach at the toss rather than relying on captain's intuition.
 
 ---
